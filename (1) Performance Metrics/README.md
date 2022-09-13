@@ -1,4 +1,4 @@
-# Performance Matrix
+# Performance Metrics
 
 1. Regression:
    1. Mean Absolute Error (MAE)
