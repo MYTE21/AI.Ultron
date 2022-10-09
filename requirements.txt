@@ -1,3 +1,6 @@
 jupyter
 pandas
 sklearn
+tensorflow
+matplotlib
+numpy
