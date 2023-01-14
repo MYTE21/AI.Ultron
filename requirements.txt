@@ -6,3 +6,6 @@ matplotlib
 numpy
 pydot
 graphviz
+scipy
+statsmodels
+seaborn
