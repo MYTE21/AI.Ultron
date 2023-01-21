@@ -9,3 +9,4 @@ graphviz
 scipy
 statsmodels
 seaborn
+dowhy
